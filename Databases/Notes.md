@@ -1,6 +1,6 @@
 # Databases
 
-Data bases is batch of data that is organised into tables
+A database is a structured collection of data that is organized into tables, which store information in rows and columns for easy access and updating.
 
 ## Topic covered
 
