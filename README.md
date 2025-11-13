@@ -4,7 +4,7 @@
 - Amazone Web Services
 - AWS S3
 - AWS EC2
-- databases
+- Databases
 
 ## LABS
 - Introduction to Amazon EC2
